@@ -44,5 +44,5 @@ The model was evaluated based on precision, recall and accuracy
 
 ## Results
 In this project , we present a combination of convolutional and bidirectional neural network .The combined BiLSTM model gives good results over the long text, since it benefits from the  BiLSTM’s characteristic to learn long-term bidirectional dependencies of the text
-The accuray was found to be 88% 
+The accuracy was found to be 88% 
 
